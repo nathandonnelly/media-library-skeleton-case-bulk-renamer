@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Media Library Skeleton Case Bulk Renamer
  * Description: Renames all WordPress media files and their generated sizes to skeleton case, including the actual files on the server.
- * Version: 1.0.7
+ * Version: 1.0.10
  * Author: Nathan Donnelly
  * Author URI: https://www.nathandonnelly.com/
  */
