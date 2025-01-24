@@ -1,0 +1,16 @@
+{
+  "name": "nathandonnelly/media-library-skeleton-case-bulk-renamer",
+  "description": "WordPress Plugin to automatically and bulk rename Media Library files to skeleton-case.",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/nathandonnelly/media-library-skeleton-case-bulk-renamer",
+  "authors": [
+    {
+      "name": "Nathan Donnelly",
+      "homepage": "https://www.nathandonnelly.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=8.0"
+  }
+}
